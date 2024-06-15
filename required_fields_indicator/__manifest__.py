@@ -13,7 +13,7 @@
     'version': '17.0.0.0',
     'depends': ['base','web'],
     'installable': True,
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.gif'],
     'assets': {
         'web.assets_backend': [
             'required_fields_indicator/static/scss/fields.scss',
