@@ -8,7 +8,7 @@
                Indicate all required fields in odoo standard like odoo previous version.
     """,
     'author': "Hari",
-    'website': "https://www.linkedin.com/in/hari-prasath-b4266718b",
+    'website': "https://hari1119.github.io/",
     'category': 'Extra Rights',
     'version': '17.0.0.0',
     'depends': ['base','web'],
