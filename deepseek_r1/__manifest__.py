@@ -15,6 +15,7 @@
         'python': ['openai'],  # List any Python libraries required
     },
     'depends': ['base', 'base_setup', 'mail'],
+    'images': ['static/description/banner.gif'],
     'data': [
         'data/mail_channel_data.xml',
         'data/user_partner_data.xml',
